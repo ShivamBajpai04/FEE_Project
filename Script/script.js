@@ -2,7 +2,7 @@
 const product = [
     {
         id: 0,
-        image: 'Images/latte.png',
+        image: 'Images\latte.png',
         title: 'Latte',
         description: 'Espresso combined with several ounces of steamed milk',
         price: 150.00,
